@@ -10,7 +10,7 @@ namespace hellow_wolrd
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hellow world");
+            Console.WriteLine("Hellow world;");
         }
     }
 }
